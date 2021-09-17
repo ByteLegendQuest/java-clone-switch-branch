@@ -6,6 +6,6 @@ import java.util.Base64;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        System.out.println(Base64.getEncoder().encodeToString("Hello, ByteLegend!".getBytes(StandardCharsets.UTF_8)));
+        System.out.println(Base64.getEncoder().encodeToString(("Hello, " + ByteLegendJDK17.class.getSimpleName() + "!").getBytes(StandardCharsets.UTF_8)));
     }
 }
