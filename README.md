@@ -49,7 +49,7 @@
 <details>
 <summary>Русский</summary>
 
-<h1>Клонировать и запустить программу Java</h1><ul><li> Чтобы выполнить задание, вам необходимо:<ul><li> Клонируйте <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">этот репозиторий</a> .</li><li> Запустите <code class="notranslate">main</code> метод в <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , затем вставьте ответ в поле ввода.</li></ul></li></ul></details>
+<h1>Клонировать и запустить Java-программу</h1><ul><li> Чтобы выполнить задание, вам необходимо:<ul><li> Клонируйте <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">этот репозиторий</a> .</li><li> Запустите <code class="notranslate">main</code> метод в <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , затем вставьте ответ в поле ввода.</li></ul></li></ul></details>
 <details>
 <summary>Deutsch</summary>
 
@@ -57,7 +57,7 @@
 <details>
 <summary>한국어</summary>
 
-<h1>Java 프로그램 복제 및 실행</h1><ul><li> 챌린지를 완료하려면 다음을 수행해야 합니다.<ul><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">이 저장소를</a> 복제합니다.</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main</code> 메소드를 실행한 다음 입력 상자에 답을 붙여넣습니다.</li></ul></li></ul></details>
+<h1>Java 프로그램 복제 및 실행</h1><ul><li> 챌린지를 완료하려면 다음을 수행해야 합니다.<ul><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">이 저장소를</a> 복제합니다.</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main</code> 메소드를 실행한 다음 입력란에 답을 붙여넣습니다.</li></ul></li></ul></details>
 <details>
 <summary>Italiano</summary>
 
