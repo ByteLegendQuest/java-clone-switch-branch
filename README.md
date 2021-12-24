@@ -30,7 +30,7 @@ To complete the challenge, you need:
   - 如果你直接访问GitHub有困难（如速度缓慢等），可以Clone我们在中国大陆的镜像`https://git.bytelegend.com/ByteLegendQuest/java-clone-switch-branch`。
 - 将该项目导入你喜欢的IDE，如`IDEA`/`VSCode`/`Eclipse`，它是一个标准的Maven项目。
   - 我们在仓库中内置了阿里云Maven中央仓库镜像，你只需点击下图中的按钮即可一键开启，无需任何费时、费力、易出错的本地镜像配置。
-  ![bug](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/switch-aliyun-maven-profile.jpg)
+  ![switch-aliyun-maven-profile](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/switch-aliyun-maven-profile.png)
 - 运行[`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java)
   中的`main()`方法，并将答案贴到输入框里。
 - 如果这些知识让你感到陌生和恐惧，没关系，请查看左边的教程，按照教程的详细一步步完成，我们会在学习中逐步掌握这些知识，加油！
