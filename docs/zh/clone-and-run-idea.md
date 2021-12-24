@@ -1,6 +1,6 @@
 # 在IntelliJ IDEA中Clone、导入然后运行Maven项目
 
-因为你已经通过了之前的挑战，`git`应该已经正确安装，所以在你的终端（如`Terminal`/`git-bash`/`cmd`等）输入：
+因为你已经通过了之前的`git version`挑战，`git`应该已经正确安装，所以在你的终端（如`Terminal`/`git-bash`/`cmd`等）输入：
 
 `git clone https://github.com/ByteLegendQuest/java-clone-switch-branch`
 
