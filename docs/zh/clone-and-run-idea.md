@@ -27,7 +27,7 @@
 我们在项目中内置了阿里云镜像，一键开启，只对该项目生效，没有毒副作用。
 如图所示，在IDEA的右上角的`Maven`工具栏中，选中`aliyun-maven`然后**按刷新按钮刷新项目结构**。
 
-![switch-aliyun-maven](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/zh/switch-aliyun-maven.png)
+![switch-aliyun-maven-profile](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/zh/switch-aliyun-maven-profile.png)
 
 请稍等片刻，待项目导入完成后，打开`src/main/java/com/bytelegend/Main.java`文件，你会看到两个绿色三角按钮。
 点击其中任意一个，选择`Run Main.main()`，程序将会运行并将答案打印在下方的标准输出中，如图所示。
