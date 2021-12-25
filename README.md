@@ -27,7 +27,7 @@ To complete the challenge, you need:
 
 要完成挑战，你需要：
 - 使用`git`客户端Clone[这个仓库：https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch)。
-  - 如果你直接访问GitHub有困难（如速度缓慢等），可以Clone我们在中国大陆的镜像`https://git.bytelegend.com/ByteLegendQuest/java-clone-switch-branch`。
+  - 如果你直接访问GitHub有困难（如超时、报错、速度缓慢等），可以Clone我们在中国大陆的镜像`https://git.bytelegend.com/ByteLegendQuest/java-clone-switch-branch`。
 - 将该项目导入你喜欢的IDE，如`IDEA`/`VSCode`/`Eclipse`，它是一个标准的Maven项目。
   - 我们在仓库中内置了阿里云Maven中央仓库镜像，你只需点击下图中的按钮即可一键开启，无需任何费时、费力、易出错的本地镜像配置。
   ![switch-aliyun-maven-profile](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/zh/switch-aliyun-maven-profile.png)
