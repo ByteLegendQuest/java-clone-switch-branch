@@ -13,7 +13,7 @@ Click `Open as Project`:
 
 ![idea-open-project](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/idea-open-project.png)
 
-If this is the first time for your IDEA to open a Java project, it might complain no JDK configured.
+If this is the first time for your IDEA to open a Java project, it might complain no JDK configured (`Project JDK is not defined`).
 Please open `File` - `Project Structure`, if there's a "No JDK" error, click `Edit` button and
 add the JDK that you have downloaded into IDEA.
 

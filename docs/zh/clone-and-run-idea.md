@@ -15,7 +15,7 @@
 
 ![idea-open-project](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/idea-open-project.png)
 
-如果你的IDEA第一次打开Java项目，它可能会报错没有配置JDK。请打开`File` - `Project Structure`，如果显示"No JDK"，点击`Edit`按钮，
+如果你的IDEA第一次打开Java项目，它可能会报错没有配置JDK(`Project JDK is not defined`)。请打开`File` - `Project Structure`，如果显示"No JDK"，点击`Edit`按钮，
 将之前下载的JDK添加到IDEA中。
 
 ![idea-project-structure](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/idea-project-structure.png)
