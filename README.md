@@ -6,7 +6,7 @@
 In this challenge, you will get two important skills: `git clone` and `import a project`.
 
 To complete the challenge, you need:
-- Clone [this repository: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) with git client.
+- Clone this repository: [https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) with git client.
 - Import this project into your favorite IDE, like `IDEA`/`VSCode`/`Eclipse`. It's a standard Maven project.
 - Run `main()` method in [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java),
   and paste the result into the input box.
