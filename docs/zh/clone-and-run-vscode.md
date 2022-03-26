@@ -46,3 +46,10 @@
 关闭VSCode重新打开项目即可。
 
 ![vscode-aliyun](./vscode-aliyun.png)
+
+请稍等片刻，待项目导入完成后，打开`src/main/java/com/bytelegend/Main.java`文件，你会在右上角看到一个三角按钮。
+点击之，程序将会运行并将答案打印在下方的标准输出中，如图所示。
+
+![idea-run-main](../vscode-run-main.png)
+
+这串字符就是这个挑战的答案，请不要骄傲，再接再厉！

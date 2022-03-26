@@ -36,3 +36,10 @@ Configure the JDK as follows:
 Note that you may need to add an extra comma at position ① below.
 
 ![vscode-jdk-conf](../vscode-jdk-conf.png)
+
+Wait for the project to be imported. Open `src/main/java/com/bytelegend/Main.java` you'll see a triangle button at top-right corner.
+Click it the program will run and print the answer into standard output below.
+
+![vscode-run-main](https://raw.githubusercontent.com/ByteLegendQuest/java-clone-switch-branch/main/docs/vscode-run-main.png)
+
+The string is the answer for this challenge. Keep on and good luck in your hero journey!
