@@ -45,44 +45,220 @@ To complete the challenge, you need:
 <details>
 <summary>繁體中文</summary>
 
-<h1>克隆並運行 Java 程序</h1><p>在這個挑戰中，您將獲得兩項重要技能： <code class="notranslate">git clone</code>和<code class="notranslate">import a project</code> 。</p><p>要完成挑戰，您需要：</p><ul><li>使用 git 客戶端克隆<a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">此存儲庫：https://github.com/ByteLegendQuest/java-clone-switch-branch。</a></li><li>將此項目導入您喜歡的 IDE，例如<code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> 。這是一個標準的 Maven 項目。</li><li>運行<a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main()</code>方法，並將結果粘貼到輸入框中。</li><li>如果您對這些知識感到陌生，請不要擔心。請查看左側的教程，並按照教程中的步驟操作。我們將在未來逐漸學習這些技能。祝你好運！</li></ul><blockquote><p>為什麼我需要這些技能？</p><ul><li> <code class="notranslate">git</code>是世界上分發源代碼的標準和最先進的方式。業內幾乎所有公司每天都<code class="notranslate">git</code> <code class="notranslate">git</code>您將有資格擔任這些職位中的大多數。</li><li> <code class="notranslate">Maven</code>是 Java 項目的行業標準。所有 IDE 都開箱即用地支持它，因此您根本不需要繁瑣且容易出錯的配置。</li></ul></blockquote></details>
+# 克隆並運行 Java 程序
+
+在這個挑戰中，您將獲得兩項重要技能：`git clone` 和`import a project`。
+
+要完成挑戰，您需要：
+- 使用 git 客戶端克隆 [此存儲庫：https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch)。
+- 將此項目導入您喜歡的 IDE，例如 `IDEA`/`VSCode`/`Eclipse`。這是一個標準的 Maven 項目。
+- 在 [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src) 中運行 `main()` 方法/main/java/com/bytelegend/Main.java),
+  並將結果粘貼到輸入框中。
+- 如果您對這些知識感到不熟悉，請不要擔心。請查看左側的教程，並按照教程中的步驟進行操作。
+  以後我們會逐步學習這些技能。祝你好運！
+
+> 為什麼我需要這些技能？
+> - `git` 是世界上分發源代碼的標準和最先進的方式。業內幾乎所有的公司每天都在使用 `git`。
+> 如果你學習了 `git`，你將有資格擔任這些職位中的大部分。
+> - `Maven` 是 Java 項目的行業標準。所有 IDE 都支持開箱即用，因此您根本不需要繁瑣且容易出錯的配置。
+</details>
 <details>
 <summary>Español</summary>
 
-<h1>Clonar y ejecutar un programa Java</h1><p> En este desafío, obtendrás dos habilidades importantes: <code class="notranslate">git clone</code> e <code class="notranslate">import a project</code> .</p><p> Para completar el desafío, necesita:</p><ul><li> Clona <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">este repositorio: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> con el cliente git.</li><li> Importe este proyecto a su IDE favorito, como <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . Es un proyecto estándar de Maven.</li><li> Ejecute el método <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> y pegue el resultado en el cuadro de entrada.</li><li> Si no está familiarizado con estos conocimientos, no se preocupe. Eche un vistazo a los tutoriales del lado izquierdo y siga los pasos de los tutoriales. Aprenderemos estas habilidades en el futuro gradualmente. ¡Buena suerte!</li></ul><blockquote><p> ¿Por qué necesito estas habilidades?</p><ul><li> <code class="notranslate">git</code> es la forma estándar y más avanzada de distribuir código fuente en el mundo. Casi todas las empresas de la industria utilizan <code class="notranslate">git</code> todos los días. Serás elegible para la mayoría de estos puestos si aprendes <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> es el estándar de la industria para proyectos Java. Todos los IDE lo admiten desde el primer momento, por lo que no necesita una configuración tediosa y propensa a errores en absoluto.</li></ul></blockquote></details>
+# Clonar y ejecutar un programa Java
+
+En este desafío, obtendrás dos habilidades importantes: `git clone` e `importar un proyecto`.
+
+Para completar el desafío, necesitas:
+- Clonar [este repositorio: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) con el cliente git.
+- Importa este proyecto a tu IDE favorito, como `IDEA`/`VSCode`/`Eclipse`. Es un proyecto Maven estándar.
+- Ejecute el método `main()` en [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  y pegue el resultado en el cuadro de entrada.
+- Si te sientes poco familiarizado con estos conocimientos, no te preocupes. Eche un vistazo a los tutoriales en el lado izquierdo y siga los pasos en los tutoriales.
+  Aprenderemos estas habilidades en el futuro gradualmente. ¡Buena suerte!
+
+> ¿Por qué necesito estas habilidades?
+> - `git` es la forma estándar y más avanzada de distribuir código fuente en el mundo. Casi todas las empresas de la industria usan `git` todos los días.
+> Serás elegible para la mayoría de estos puestos si aprendes `git`.
+> - `Maven` es el estándar de la industria para proyectos Java. Todos los IDE lo admiten de forma inmediata, por lo que no necesita una configuración tediosa y propensa a errores.
+</details>
 <details>
 <summary>العربية</summary>
 
-<h1 style=";text-align:right;direction:rtl">استنساخ وتشغيل برنامج Java</h1><p style=";text-align:right;direction:rtl"> في هذا التحدي ، ستحصل على <code class="notranslate">git clone</code> <code class="notranslate">import a project</code> .</p><p style=";text-align:right;direction:rtl"> لإكمال التحدي ، أنت بحاجة إلى:</p><ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> استنساخ <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">هذا المستودع: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> مع عميل git.</li><li style=";text-align:right;direction:rtl"> قم باستيراد هذا المشروع إلى IDE المفضل لديك ، مثل <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . إنه مشروع مخضرم قياسي.</li><li style=";text-align:right;direction:rtl"> قم بتشغيل الطريقة <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> ، والصق النتيجة في مربع الإدخال.</li><li style=";text-align:right;direction:rtl"> إذا كنت تشعر بعدم الإلمام بهذه المعرفة ، فلا داعي للقلق. يرجى إلقاء نظرة على البرامج التعليمية الموجودة على الجانب الأيسر ، واتباع الخطوات الموجودة في البرامج التعليمية. سوف نتعلم هذه المهارات في المستقبل تدريجيًا. حظا طيبا وفقك الله!</li></ul><blockquote style=";text-align:right;direction:rtl"><p style=";text-align:right;direction:rtl"> لماذا أحتاج هذه المهارات؟</p><ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> <code class="notranslate">git</code> هي الطريقة القياسية والأكثر تقدمًا لتوزيع الكود المصدري في العالم. تستخدم جميع الشركات في الصناعة تقريبًا <code class="notranslate">git</code> يوميًا. ستكون مؤهلاً لمعظم هذه الوظائف إذا تعلمت <code class="notranslate">git</code> .</li><li style=";text-align:right;direction:rtl"> <code class="notranslate">Maven</code> هو المعيار الصناعي لمشروع Java. تدعمه جميع IDEs ، بحيث لا تحتاج إلى تكوين مملة وعرضة للخطأ على الإطلاق.</li></ul></blockquote></details>
+# استنساخ وتشغيل برنامج Java
+
+في هذا التحدي ، ستحصل على مهارتين مهمتين: "git clone" و "استيراد مشروع".
+
+لإكمال التحدي ، أنت بحاجة إلى:
+- استنساخ [هذا المستودع: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) باستخدام git client.
+- قم باستيراد هذا المشروع إلى IDE المفضل لديك ، مثل "IDEA" / "VSCode" / "Eclipse". إنه مشروع مخضرم قياسي.
+- قم بتشغيل طريقة `main ()` في [`src / main / java / com / bytelegend / Main.java`] (https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java) ،
+  ولصق النتيجة في مربع الإدخال.
+- إذا كنت تشعر بعدم الإلمام بهذه المعرفة ، فلا داعي للقلق. يرجى إلقاء نظرة على البرامج التعليمية الموجودة على الجانب الأيسر ، واتباع الخطوات الموجودة في البرامج التعليمية.
+  سوف نتعلم هذه المهارات في المستقبل تدريجيًا. حظ سعيد!
+
+> لماذا أحتاج هذه المهارات؟
+> - "git" هي الطريقة القياسية والأكثر تقدمًا لتوزيع الكود المصدري في العالم. تستخدم جميع الشركات العاملة في الصناعة تقريبًا "git" يوميًا.
+> ستكون مؤهلاً لمعظم هذه الوظائف إذا تعلمت "git".
+> - "Maven" هو المعيار الصناعي لمشروع Java. تدعمه جميع IDEs ، بحيث لا تحتاج إلى تكوين مملة وعرضة للخطأ على الإطلاق.
+</details>
 <details>
 <summary>Português</summary>
 
-<h1>Clone e execute um programa Java</h1><p> Neste desafio, você obterá duas habilidades importantes: <code class="notranslate">git clone</code> e <code class="notranslate">import a project</code> .</p><p> Para completar o desafio, você precisa:</p><ul><li> Clone <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">este repositório: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> com o cliente git.</li><li> Importe este projeto em seu IDE favorito, como <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . É um projeto Maven padrão.</li><li> Execute o método <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> e cole o resultado na caixa de entrada.</li><li> Se você não estiver familiarizado com esses conhecimentos, não se preocupe. Por favor, dê uma olhada nos tutoriais à esquerda e siga as etapas nos tutoriais. Aprenderemos essas habilidades gradualmente no futuro. Boa sorte!</li></ul><blockquote><p> Por que preciso dessas habilidades?</p><ul><li> <code class="notranslate">git</code> é a forma padrão e mais avançada de distribuir código-fonte no mundo. Quase todas as empresas do setor usam o <code class="notranslate">git</code> todos os dias. Você será elegível para a maioria dessas posições se aprender <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> é o padrão da indústria para projetos Java. Todos os IDEs oferecem suporte pronto para uso, portanto, você não precisa de configuração entediante e sujeita a erros.</li></ul></blockquote></details>
+# Clonar e executar um programa Java
+
+Neste desafio, você obterá duas habilidades importantes: `git clone` e `import a project`.
+
+Para completar o desafio, você precisa:
+- Clone [este repositório: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) com o cliente git.
+- Importe este projeto para seu IDE favorito, como `IDEA`/`VSCode`/`Eclipse`. É um projeto padrão do Maven.
+- Execute o método `main()` em [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  e cole o resultado na caixa de entrada.
+- Se você não se sente familiarizado com esses conhecimentos, não se preocupe. Por favor, dê uma olhada nos tutoriais no lado esquerdo e siga as etapas nos tutoriais.
+  Vamos aprender essas habilidades no futuro gradualmente. Boa sorte!
+
+> Por que preciso dessas habilidades?
+> - `git` é a forma padrão e mais avançada de distribuir código fonte no mundo. Quase todas as empresas do setor usam `git` todos os dias.
+> Você será elegível para a maioria dessas posições se aprender `git`.
+> - `Maven` é o padrão da indústria para projetos Java. Todos os IDEs oferecem suporte pronto para uso, portanto, você não precisa de configuração tediosa e propensa a erros.
+</details>
 <details>
 <summary>Bahasa Indonesia</summary>
 
-<h1>Kloning dan Jalankan Program Java</h1><p> Dalam tantangan ini, Anda akan mendapatkan dua keterampilan penting: <code class="notranslate">git clone</code> dan <code class="notranslate">import a project</code> .</p><p> Untuk menyelesaikan tantangan, Anda perlu:</p><ul><li> Kloning <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">repositori ini: https://github.com/ByteLegendQuest/Java-clone-switch-branch</a> dengan klien git.</li><li> Impor proyek ini ke IDE favorit Anda, seperti <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . Ini adalah proyek Maven standar.</li><li> Jalankan metode <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , dan rekatkan hasilnya ke kotak input.</li><li> Jika Anda merasa asing dengan pengetahuan ini, jangan khawatir. Silakan lihat tutorial di sisi kiri, dan ikuti langkah-langkah dalam tutorial. Kami akan mempelajari keterampilan ini di masa depan secara bertahap. Semoga berhasil!</li></ul><blockquote><p> Mengapa saya membutuhkan keterampilan ini?</p><ul><li> <code class="notranslate">git</code> adalah cara standar dan paling canggih untuk mendistribusikan kode sumber di dunia. Hampir semua perusahaan di industri menggunakan <code class="notranslate">git</code> setiap hari. Anda akan memenuhi syarat untuk sebagian besar posisi ini jika Anda mempelajari <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> adalah standar industri untuk proyek Java. Semua IDE mendukungnya, jadi Anda tidak memerlukan konfigurasi yang membosankan dan rawan kesalahan sama sekali.</li></ul></blockquote></details>
+# Klon dan Jalankan Program Java
+
+Dalam tantangan ini, Anda akan mendapatkan dua keterampilan penting: `git clone` dan `import a project`.
+
+Untuk menyelesaikan tantangan, Anda perlu:
+- Klon [repositori ini: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) dengan klien git.
+- Impor proyek ini ke IDE favorit Anda, seperti `IDEA`/`VSCode`/`Eclipse`. Ini adalah proyek Maven standar.
+- Jalankan metode `main()` di [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  dan paste hasilnya ke kotak input.
+- Jika Anda merasa asing dengan pengetahuan ini, jangan khawatir. Silakan lihat tutorial di sisi kiri, dan ikuti langkah-langkah dalam tutorial.
+  Kami akan mempelajari keterampilan ini di masa depan secara bertahap. Semoga beruntung!
+
+> Mengapa saya membutuhkan keterampilan ini?
+> - `git` adalah cara standar dan paling canggih untuk mendistribusikan kode sumber di dunia. Hampir semua perusahaan di industri menggunakan `git` sehari-hari.
+> Anda akan memenuhi syarat untuk sebagian besar posisi ini jika Anda mempelajari `git`.
+> - `Maven` adalah standar industri untuk proyek Java. Semua IDE mendukungnya secara langsung, jadi Anda tidak memerlukan konfigurasi yang membosankan dan rawan kesalahan sama sekali.
+</details>
 <details>
 <summary>Français</summary>
 
-<h1>Cloner et exécuter un programme Java</h1><p> Dans ce défi, vous obtiendrez deux compétences importantes : <code class="notranslate">git clone</code> et <code class="notranslate">import a project</code> .</p><p> Pour relever le défi, il vous faut :</p><ul><li> Clonez <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">ce référentiel : https://github.com/ByteLegendQuest/java-clone-switch-branch</a> avec le client git.</li><li> Importez ce projet dans votre IDE préféré, comme <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . C&#39;est un projet Maven standard.</li><li> Exécutez la méthode <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> et collez le résultat dans la zone de saisie.</li><li> Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels. Nous allons apprendre ces compétences à l&#39;avenir progressivement. Bonne chance!</li></ul><blockquote><p> Pourquoi ai-je besoin de ces compétences ?</p><ul><li> <code class="notranslate">git</code> est le moyen standard et le plus avancé de distribuer du code source dans le monde. Presque toutes les entreprises du secteur utilisent <code class="notranslate">git</code> tous les jours. Vous serez éligible pour la plupart de ces postes si vous apprenez <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> est le standard de l&#39;industrie pour les projets Java. Tous les IDE le prennent en charge par défaut, vous n&#39;avez donc pas du tout besoin d&#39;une configuration fastidieuse et sujette aux erreurs.</li></ul></blockquote></details>
+# Cloner et exécuter un programme Java
+
+Dans ce défi, vous obtiendrez deux compétences importantes : "git clone" et "importer un projet".
+
+Pour relever le défi, vous avez besoin de :
+- Clonez [ce référentiel : https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) avec le client git.
+- Importez ce projet dans votre IDE préféré, comme `IDEA`/`VSCode`/`Eclipse`. C'est un projet Maven standard.
+- Exécutez la méthode `main()` dans [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  et collez le résultat dans la zone de saisie.
+- Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels.
+  Nous allons apprendre ces compétences à l'avenir progressivement. Bonne chance!
+
+> Pourquoi ai-je besoin de ces compétences ?
+> - `git` est le moyen standard et le plus avancé de distribuer du code source dans le monde. Presque toutes les entreprises du secteur utilisent `git` tous les jours.
+> Vous serez éligible pour la plupart de ces postes si vous apprenez `git`.
+> - `Maven` est le standard de l'industrie pour les projets Java. Tous les IDE le prennent en charge immédiatement, vous n'avez donc pas du tout besoin d'une configuration fastidieuse et sujette aux erreurs.
+</details>
 <details>
 <summary>日本語</summary>
 
-<h1>Javaプログラムのクローンを作成して実行する</h1><p>このチャレンジでは、2つの重要なスキルを習得します<code class="notranslate">git clone</code>と<code class="notranslate">import a project</code>です。</p><p>チャレンジを完了するには、次のものが必要です。</p><ul><li>このリポジトリのクローンを作成<a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">します：https：//github.com/ByteLegendQuest/java-clone-switch-branch</a> with gitclient。</li><li> <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code>などのお気に入りのIDEにインポートします。これは標準のMavenプロジェクトです。</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main()</code>メソッドを実行し、結果を入力ボックスに貼り付けます。</li><li>これらの知識に慣れていなくても心配しないでください。左側のチュートリアルをご覧になり、チュートリアルの手順に従ってください。今後、これらのスキルを徐々に習得していきます。幸運を！</li></ul><blockquote><p>なぜこれらのスキルが必要なのですか？</p><ul><li> <code class="notranslate">git</code>は、世界でソースコードを配布するための標準的で最も高度な方法です。業界のほぼすべての企業が<code class="notranslate">git</code>使用しています。 <code class="notranslate">git</code>を学ぶと、これらのポジションのほとんどを利用できるようになります。</li><li> <code class="notranslate">Maven</code>はJavaプロジェクトの業界標準です。すべてのIDEはそのままでサポートするため、面倒でエラーが発生しやすい構成はまったく必要ありません。</li></ul></blockquote></details>
+＃Javaプログラムのクローンを作成して実行する
+
+このチャレンジでは、`gitclone`と`importaproject`という2つの重要なスキルを習得します。
+
+チャレンジを完了するには、次のものが必要です。
+-[このリポジトリ：https：//github.com/ByteLegendQuest/java-clone-switch-branch]（https://github.com/ByteLegendQuest/java-clone-switch-branch）をgitクライアントで複製します。
+-このプロジェクトを`IDEA`/` VSCode`/`Eclipse`などのお気に入りのIDEにインポートします。これは標準のMavenプロジェクトです。
+-[`src / main / java / com / bytelegend / Main.java`]（https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src]で `main（）`メソッドを実行します/main/java/com/bytelegend/Main.java）、
+  結果を入力ボックスに貼り付けます。
+-これらの知識に慣れていなくても心配しないでください。左側のチュートリアルをご覧になり、チュートリアルの手順に従ってください。
+  今後、これらのスキルを徐々に習得していきます。幸運を！
+
+>なぜこれらのスキルが必要なのですか？
+>-`git`は、世界でソースコードを配布するための標準的で最も高度な方法です。業界のほぼすべての企業が毎日`git`を使用しています。
+> `git`を学ぶと、これらのポジションのほとんどを利用できるようになります。
+>-`Maven`はJavaプロジェクトの業界標準です。すべてのIDEはそのままでサポートするため、面倒でエラーが発生しやすい構成はまったく必要ありません。
+</details>
 <details>
 <summary>Русский</summary>
 
-<h1>Клонировать и запустить программу Java</h1><p> В этом испытании вы получите два важных навыка: <code class="notranslate">git clone</code> и <code class="notranslate">import a project</code> .</p><p> Для выполнения задания вам понадобятся:</p><ul><li> Клонируйте <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">этот репозиторий: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> с помощью клиента git.</li><li> Импортируйте этот проект в свою любимую среду IDE, например <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . Это стандартный проект Maven.</li><li> Запустите метод <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> и вставьте результат в поле ввода.</li><li> Если вы чувствуете себя незнакомым с этими знаниями, не волнуйтесь. Взгляните на обучающие материалы слева и следуйте инструкциям, указанным в обучающих материалах. Мы будем постепенно осваивать эти навыки в будущем. Удачи!</li></ul><blockquote><p> Зачем мне нужны эти навыки?</p><ul><li> <code class="notranslate">git</code> - это стандартный и наиболее продвинутый способ распространения исходного кода в мире. Практически все компании в отрасли используют <code class="notranslate">git</code> каждый день. Вы сможете занять большинство из этих должностей, если выучите <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> - это отраслевой стандарт для Java-проектов. Все IDE поддерживают его прямо из коробки, поэтому вам вообще не нужна утомительная и подверженная ошибкам конфигурация.</li></ul></blockquote></details>
+# Клонировать и запустить Java-программу
+
+В этом задании вы получите два важных навыка: «git clone» и «импорт проекта».
+
+Чтобы выполнить задание, вам нужно:
+- Клонировать [этот репозиторий: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) с помощью клиента git.
+- Импортируйте этот проект в свою любимую IDE, например `IDEA`/`VSCode`/`Eclipse`. Это стандартный проект Maven.
+- Запустите метод `main()` в [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  и вставьте результат в поле ввода.
+- Если вы чувствуете себя незнакомым с этими знаниями, не волнуйтесь. Пожалуйста, ознакомьтесь с руководствами слева и следуйте инструкциям в руководствах.
+  Мы будем изучать эти навыки в будущем постепенно. Удачи!
+
+> Зачем мне эти навыки?
+> - `git` - это стандартный и самый продвинутый способ распространения исходного кода в мире. Почти все компании в отрасли используют `git` каждый день.
+> Вы будете иметь право на большинство из этих должностей, если вы изучите `git`.
+> - `Maven` является отраслевым стандартом для Java-проектов. Все IDE поддерживают его «из коробки», поэтому вам вообще не нужна утомительная и подверженная ошибкам настройка.
+</details>
 <details>
 <summary>Deutsch</summary>
 
-<h1>Klonen und Ausführen eines Java-Programms</h1><p> In dieser Herausforderung erwirbst du zwei wichtige Fähigkeiten: <code class="notranslate">git clone</code> und <code class="notranslate">import a project</code> .</p><p> Um die Herausforderung abzuschließen, benötigst du:</p><ul><li> Klonen Sie <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">dieses Repository: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> mit dem Git-Client.</li><li> Importieren Sie dieses Projekt in Ihre bevorzugte IDE, wie <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . Es ist ein Standard-Maven-Projekt.</li><li> Führen Sie die <code class="notranslate">main()</code> -Methode in <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> und fügen Sie das Ergebnis in das Eingabefeld ein.</li><li> Machen Sie sich keine Sorgen, wenn Ihnen dieses Wissen nicht vertraut ist. Bitte werfen Sie einen Blick auf die Tutorials auf der linken Seite und folgen Sie den Schritten in den Tutorials. Diese Fähigkeiten werden wir in Zukunft nach und nach erlernen. Viel Glück!</li></ul><blockquote><p> Warum brauche ich diese Fähigkeiten?</p><ul><li> <code class="notranslate">git</code> ist der Standard und fortschrittlichste Weg, um Quellcode in der Welt zu verteilen. Fast alle Unternehmen der Branche verwenden <code class="notranslate">git</code> täglich. Sie werden für die meisten dieser Positionen geeignet sein, wenn Sie <code class="notranslate">git</code> lernen.</li><li> <code class="notranslate">Maven</code> ist der Industriestandard für Java-Projekte. Alle IDEs unterstützen es out-of-the-box, sodass Sie überhaupt keine langwierige und fehleranfällige Konfiguration benötigen.</li></ul></blockquote></details>
+# Klonen und Ausführen eines Java-Programms
+
+In dieser Herausforderung erhalten Sie zwei wichtige Fähigkeiten: „Git-Klon“ und „Importieren eines Projekts“.
+
+Um die Herausforderung abzuschließen, benötigen Sie:
+- Klonen Sie [dieses Repository: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) mit dem Git-Client.
+- Importieren Sie dieses Projekt in Ihre bevorzugte IDE, wie `IDEA`/`VSCode`/`Eclipse`. Es ist ein Standard-Maven-Projekt.
+- Führen Sie die Methode `main()` in [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  und fügen Sie das Ergebnis in das Eingabefeld ein.
+- Wenn Sie sich mit diesem Wissen nicht vertraut fühlen, machen Sie sich keine Sorgen. Bitte werfen Sie einen Blick auf die Tutorials auf der linken Seite und befolgen Sie die Schritte in den Tutorials.
+  Diese Fähigkeiten werden wir uns in Zukunft schrittweise aneignen. Viel Glück!
+
+> Warum brauche ich diese Fähigkeiten?
+> - `git` ist die standardisierte und fortschrittlichste Art, Quellcode weltweit zu verteilen. Nahezu alle Unternehmen der Branche nutzen `git` täglich.
+> Sie kommen für die meisten dieser Positionen infrage, wenn Sie `git` lernen.
+> - „Maven“ ist der Industriestandard für Java-Projekte. Alle IDEs unterstützen es von Haus aus, sodass Sie überhaupt keine langwierige und fehleranfällige Konfiguration benötigen.
+</details>
 <details>
 <summary>한국어</summary>
 
-<h1>Java 프로그램 복제 및 실행</h1><p> 이 챌린지에서는 두 가지 중요한 <code class="notranslate">git clone</code> 및 <code class="notranslate">import a project</code> 배우게 됩니다.</p><p> 챌린지를 완료하려면 다음이 필요합니다.</p><ul><li> git 클라이언트를 사용하여 <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">https://github.com/ByteLegendQuest/java-clone-switch-branch 리포지토리를</a> 복제합니다.</li><li> <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> 와 같은 선호하는 IDE로 가져옵니다. 표준 Maven 프로젝트입니다.</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main()</code> 메소드를 실행하고 결과를 입력 상자에 붙여넣습니다.</li><li> 이러한 지식이 낯설더라도 걱정하지 마십시오. 왼쪽에 있는 자습서를 살펴보고 자습서의 단계를 따르십시오. 우리는 앞으로 이러한 기술을 점차적으로 배울 것입니다. 행운을 빕니다!</li></ul><blockquote><p> 왜 이러한 기술이 필요합니까?</p><ul><li> <code class="notranslate">git</code> 은 세계에서 소스 코드를 배포하는 표준이자 가장 진보된 방법입니다. 업계의 거의 모든 회사는 <code class="notranslate">git</code> 사용합니다. <code class="notranslate">git</code> 을 배우면 이러한 직책의 대부분을 차지할 수 있습니다.</li><li> <code class="notranslate">Maven</code> 은 Java 프로젝트의 산업 표준입니다. 모든 IDE는 즉시 지원하므로 지루하고 오류가 발생하기 쉬운 구성이 전혀 필요하지 않습니다.</li></ul></blockquote></details>
+# 자바 프로그램 복제 및 실행
+
+이 챌린지에서는 `git clone`과 `import project`라는 두 가지 중요한 기술을 습득하게 됩니다.
+
+챌린지를 완료하려면 다음이 필요합니다.
+- git 클라이언트로 [이 저장소: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch)를 복제합니다.
+- 이 프로젝트를 `IDEA`/`VSCode`/`Eclipse`와 같이 즐겨 사용하는 IDE로 가져옵니다. 표준 Maven 프로젝트입니다.
+- [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src)에서 `main()` 메소드 실행 /main/java/com/bytelegend/Main.java),
+  결과를 입력 상자에 붙여넣습니다.
+- 이러한 지식이 낯설더라도 걱정하지 마십시오. 왼쪽에 있는 자습서를 살펴보고 자습서의 단계를 따르십시오.
+  앞으로 이러한 기술을 점차적으로 배울 것입니다. 행운을 빕니다!
+
+> 왜 이러한 기술이 필요합니까?
+> - `git`은 세계에서 소스 코드를 배포하는 표준이자 가장 진보된 방법입니다. 업계의 거의 모든 회사는 매일 'git'을 사용합니다.
+> `git`을 배우면 이러한 직책의 대부분을 차지할 수 있습니다.
+> - 'Maven'은 Java 프로젝트의 업계 표준입니다. 모든 IDE는 즉시 지원하므로 지루하고 오류가 발생하기 쉬운 구성이 전혀 필요하지 않습니다.
+</details>
 <details>
 <summary>Italiano</summary>
 
-<h1>Clona ed esegui un programma Java</h1><p> In questa sfida otterrai due importanti abilità: <code class="notranslate">git clone</code> e <code class="notranslate">import a project</code> .</p><p> Per completare la sfida, è necessario:</p><ul><li> Clona <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">questo repository: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> con git client.</li><li> Importa questo progetto nel tuo IDE preferito, come <code class="notranslate">IDEA</code> / <code class="notranslate">VSCode</code> / <code class="notranslate">Eclipse</code> . È un progetto Maven standard.</li><li> Esegui il metodo <code class="notranslate">main()</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> e incolla il risultato nella casella di input.</li><li> Se non ti senti familiare con queste conoscenze, non preoccuparti. Dai un&#39;occhiata ai tutorial sul lato sinistro e segui i passaggi nei tutorial. Impareremo queste abilità in futuro gradualmente. Buona fortuna!</li></ul><blockquote><p> Perché ho bisogno di queste abilità?</p><ul><li> <code class="notranslate">git</code> è il modo standard e più avanzato per distribuire il codice sorgente nel mondo. Quasi tutte le aziende del settore usano <code class="notranslate">git</code> ogni giorno. Sarai idoneo per la maggior parte di queste posizioni se impari <code class="notranslate">git</code> .</li><li> <code class="notranslate">Maven</code> è lo standard del settore per i progetti Java. Tutti gli IDE lo supportano immediatamente, quindi non è necessaria alcuna configurazione noiosa e soggetta a errori.</li></ul></blockquote></details>
+# Clona ed esegui un programma Java
+
+In questa sfida otterrai due abilità importanti: `git clone` e `importa un progetto`.
+
+Per completare la sfida, hai bisogno di:
+- Clona [questo repository: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) con git client.
+- Importa questo progetto nel tuo IDE preferito, come `IDEA`/`VSCode`/`Eclipse`. È un progetto Maven standard.
+- Esegui il metodo `main()` in [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/main/src /main/java/com/bytelegend/Main.java),
+  e incolla il risultato nella casella di input.
+- Se non hai familiarità con queste conoscenze, non preoccuparti. Dai un'occhiata ai tutorial sul lato sinistro e segui i passaggi nei tutorial.
+  Impareremo queste abilità in futuro gradualmente. Buona fortuna!
+
+> Perché ho bisogno di queste abilità?
+> - `git` è il modo standard e più avanzato per distribuire il codice sorgente al mondo. Quasi tutte le aziende del settore usano `git` tutti i giorni.
+> Sarai idoneo per la maggior parte di queste posizioni se impari `git`.
+> - `Maven` è lo standard industriale per il progetto Java. Tutti gli IDE lo supportano immediatamente, quindi non hai bisogno di una configurazione noiosa e soggetta a errori.
+</details>
