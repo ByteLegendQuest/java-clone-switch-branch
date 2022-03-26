@@ -11,21 +11,30 @@
 这会在本地创建一个名为`java-clone-switch-branch`的项目文件夹，你可以把它移动到你喜欢的任何地方去。
 
 打开`VSCode`，将刚才 Clone 下来的项目拖入VSCode中。请确保已经安装了
-[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)。如果你之前没有在VSCode中配置过JDK，则点击侧边栏中的齿轮，选择`Settings`，在页面中找到`Configuration: Runtimes`配置，点击`Edit in settings.json`。
+[Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)。
 
-![vscode-jdk-setting](../vscode-jdk-setting.png)
+![install-extension-pack-for-java.png](../install-extension-pack-for-java.png)
+
+如果你之前没有在VSCode中配置过JDK，则点击侧边栏中的齿轮，选择`Settings`，搜索`Runtime`，选择`Extensions` - `Java` - `Configuration: Runtimes`配置，点击`Edit in settings.json`。
+
+![edit-settings-json.png](../edit-settings-json.png)
 
 按照如下格式进行 JDK 的配置：
 
 ```json
-"java.configuration.runtimes": [
-  {
-    "name": "JavaSE-17",  // JDK 名称
-    "path": "~/.sdkman/candidates/java/17.0.2-tem", // JDK 路径
-    "default": true // 是否为默认值
-  }
-]
+{
+  ...在原有的配置后面添加以下配置，注意可能要添加一个逗号
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17", // JDK 名称
+      "path": "~/.sdkman/candidates/java/17.0.2-tem", // JDK 路径
+      "default": true // 是否为默认值
+    }
+  ]
+}
 ```
+
+注意下图中的位置①可能需要添加一个英文逗号，否则可能报JSON格式错误。
 
 ![vscode-jdk-conf](../vscode-jdk-conf.png)
 
