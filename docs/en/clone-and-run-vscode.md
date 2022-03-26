@@ -7,7 +7,7 @@ Now open your terminal (`Terminal`, `git-bash`, `cmd`, etc.) and input:
 
 A project directory named `java-clone-switch-branch` will be created, which can be moved wherever you like.
 
-Open `VSCode`, drag the directory you just cloned into VSCode.
+Open `VSCode` - `File` - `Open` and select the directory you just cloned.
 Install [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) if you haven't installed it.
 
 ![install-extension-pack-for-java.png](../install-extension-pack-for-java.png)

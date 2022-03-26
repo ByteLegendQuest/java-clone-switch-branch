@@ -10,7 +10,7 @@
 
 这会在本地创建一个名为`java-clone-switch-branch`的项目文件夹，你可以把它移动到你喜欢的任何地方去。
 
-打开`VSCode`，将刚才 Clone 下来的项目拖入VSCode中。请确保已经安装了
+打开`VSCode`，选择`File` - `Open`， 选择你刚才Clone下来的项目文件夹。请确保已经安装了
 [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)。
 
 ![install-extension-pack-for-java.png](../install-extension-pack-for-java.png)
