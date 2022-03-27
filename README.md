@@ -14,7 +14,9 @@ To finish the challenge, you need to:
   then paste the answer into the input box.
 - If you feel unfamiliar with these knowledge, don't worry. Please take a look at the tutorials on the left side, and follow the steps in tutorials.
   We'll learn these skills in future gradually. Good luck!
+
 </details>
+
 <details>
 <summary>简体中文</summary>
 
@@ -23,54 +25,198 @@ To finish the challenge, you need to:
 在这个挑战中，你会学习到两个至关重要的技能：`切换git分支`和`切换项目JDK版本`。
 
 要完成挑战，你需要：
-- 打开上一个[挑战的仓库：https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch)。
+- 打开上一个[挑战的仓库：https://git.bytelegend.com/ByteLegendQuest/java-clone-switch-branch](https://git.bytelegend.com/ByteLegendQuest/java-clone-switch-branch)。
 - 切换到`jdk17`分支。你可以把分支暂时理解成同时存在于同一个仓库的代码的多个不同副本，你需要切换到名为`jdk17`的代码副本上。
 - **注意！！这个分支上的代码需要JDK17才能编译运行**！！因此，你需要设置项目的JDK为JDK 17。
 - 运行[`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java)
   中的`main`方法，并将答案贴到输入框里。
 - 如果这些知识让你感到陌生和恐惧，没关系，请查看左边的教程，按照教程的详细一步步完成，我们会在学习中逐步掌握这些知识，加油！
+
 </details>
+
 <details>
 <summary>繁體中文</summary>
 
-<h1>使用不同的 JDK 克隆、切換分支和運行</h1><p>在這個挑戰中，你將獲得兩個重要的技能： <code class="notranslate">switch branch</code>和<code class="notranslate">switch project JDK version</code> 。</p><p>要完成挑戰，您需要：</p><ul><li>在上一個挑戰中打開<a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">存儲庫：https://github.com/ByteLegendQuest/java-clone-switch-branch</a> 。</li><li>切換到<code class="notranslate">jdk17</code>分支。</li><li><strong>注意這個分支上的代碼需要JDK17才能運行</strong>！！！您需要將項目 SDK 設置為 JDK 17。</li><li>在<a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a>運行<code class="notranslate">main</code>方法，然後將答案粘貼到輸入框中。</li><li>如果您對這些知識感到陌生，請不要擔心。請查看左側的教程，並按照教程中的步驟操作。我們將在未來逐漸學習這些技能。祝你好運！</li></ul></details>
+克隆、切換分支並使用不同的 JDK 運行
+====================
+
+在本次挑戰中，您將獲得兩個重要技能： `switch branch`和`switch project JDK version` 。
+
+要完成挑戰，您需要：
+
+-   [在最後一個挑戰中打開存儲庫：https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) 。
+-   切換到`jdk17`分支。
+-   **注意這個分支上的代碼需要JDK17才能運行**！！！您需要將項目 SDK 設置為 JDK 17。
+-   運行[`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java)中的`main`方法，然後將答案粘貼到輸入框中。
+-   如果您對這些知識感到不熟悉，請不要擔心。請查看左側的教程，並按照教程中的步驟進行操作。以後我們會逐步學習這些技能。祝你好運！
+</details>
+
 <details>
 <summary>Español</summary>
 
-<h1>Clonar, cambiar de rama y ejecutar con un JDK diferente</h1><p> En este desafío, obtendrá dos habilidades importantes: <code class="notranslate">switch branch</code> y <code class="notranslate">switch project JDK version</code> .</p><p> Para finalizar el desafío, debes:</p><ul><li> Abra <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">el repositorio en el último desafío: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> Cambie a la rama <code class="notranslate">jdk17</code></li><li> <strong>Tenga en cuenta que el código de esta rama requiere que se ejecute JDK17.</strong> Debe configurar el SDK del proyecto en JDK 17.</li><li> Ejecute el método <code class="notranslate">main</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , luego pegue la respuesta en el cuadro de entrada.</li><li> Si no está familiarizado con estos conocimientos, no se preocupe. Eche un vistazo a los tutoriales del lado izquierdo y siga los pasos de los tutoriales. Aprenderemos estas habilidades en el futuro gradualmente. ¡Buena suerte!</li></ul></details>
+Clonar, cambiar de sucursal y ejecutar con un JDK diferente
+===========================================================
+
+En este desafío, obtendrá dos habilidades importantes: `switch branch` y `switch project JDK version` .
+
+Para terminar el desafío, necesitas:
+
+-   Abra [el repositorio en el último desafío: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Cambie a la rama `jdk17` .
+-   ¡ **Tenga en cuenta que el código en esta rama requiere JDK17 para ejecutarse** ! Debe configurar el SDK del proyecto en JDK 17.
+-   Ejecute el método `main` en [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , luego pegue la respuesta en el cuadro de entrada.
+-   Si no se siente familiarizado con estos conocimientos, no se preocupe. Eche un vistazo a los tutoriales en el lado izquierdo y siga los pasos en los tutoriales. Aprenderemos estas habilidades en el futuro gradualmente. ¡Buena suerte!
+</details>
+
 <details>
 <summary>العربية</summary>
 
-<h1 style=";text-align:right;direction:rtl">استنساخ وتبديل الفرع وتشغيل JDK مختلف</h1><p style=";text-align:right;direction:rtl"> في هذا التحدي ، ستحصل على مهارتين مهمتين: <code class="notranslate">switch branch</code> <code class="notranslate">switch project JDK version</code> .</p><p style=";text-align:right;direction:rtl"> لإنهاء التحدي ، أنت بحاجة إلى:</p><ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> افتح <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">المستودع في التحدي الأخير: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li style=";text-align:right;direction:rtl"> قم بالتبديل إلى فرع <code class="notranslate">jdk17</code></li><li style=";text-align:right;direction:rtl"> <strong>لاحظ أن الكود الموجود في هذا الفرع يتطلب JDK17 للتشغيل</strong> !!! تحتاج إلى ضبط مشروع SDK على JDK 17.</li><li style=";text-align:right;direction:rtl"> قم بتشغيل الطريقة <code class="notranslate">main</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> ، ثم الصق الإجابة في مربع الإدخال.</li><li style=";text-align:right;direction:rtl"> إذا كنت تشعر بعدم الإلمام بهذه المعرفة ، فلا داعي للقلق. يرجى إلقاء نظرة على البرامج التعليمية الموجودة على الجانب الأيسر ، واتباع الخطوات الموجودة في البرامج التعليمية. سوف نتعلم هذه المهارات في المستقبل تدريجيًا. حظا طيبا وفقك الله!</li></ul></details>
+استنساخ وتبديل الفرع وتشغيل JDK مختلف
+=====================================
+
+في هذا التحدي ، ستحصل على مهارتين مهمتين: `switch branch` `switch project JDK version` .
+
+لإنهاء التحدي ، أنت بحاجة إلى:
+
+-   افتح [المستودع في التحدي الأخير: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   قم بالتبديل إلى فرع `jdk17` .
+-   **لاحظ أن الكود الموجود في هذا الفرع يتطلب JDK17 للتشغيل** !!! تحتاج إلى ضبط مشروع SDK على JDK 17.
+-   قم بتشغيل الطريقة `main` في [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) ، ثم الصق الإجابة في مربع الإدخال.
+-   إذا كنت تشعر بعدم الإلمام بهذه المعرفة ، فلا داعي للقلق. يرجى إلقاء نظرة على البرامج التعليمية الموجودة على الجانب الأيسر ، واتباع الخطوات الموجودة في البرامج التعليمية. سوف نتعلم هذه المهارات في المستقبل تدريجيًا. حظ سعيد!
+</details>
+
 <details>
 <summary>Português</summary>
 
-<h1>Clone, mude de ramificação e execute com um JDK diferente</h1><p> Neste desafio, você obterá duas habilidades importantes: <code class="notranslate">switch branch</code> e a <code class="notranslate">switch project JDK version</code> .</p><p> Para terminar o desafio, você precisa:</p><ul><li> Abra <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">o repositório no último desafio: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> Mude para o branch <code class="notranslate">jdk17</code></li><li> <strong>Observe que o código neste branch requer JDK17 para ser executado</strong> !!! Você precisa definir o SDK do projeto para JDK 17.</li><li> Execute o método <code class="notranslate">main</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> e cole a resposta na caixa de entrada.</li><li> Se você não estiver familiarizado com esses conhecimentos, não se preocupe. Por favor, dê uma olhada nos tutoriais à esquerda e siga as etapas nos tutoriais. Aprenderemos essas habilidades gradualmente no futuro. Boa sorte!</li></ul></details>
+Clone, alterne branch e execute com um JDK diferente
+====================================================
+
+Neste desafio, você obterá duas habilidades importantes: `switch branch` e `switch project JDK version` .
+
+Para terminar o desafio, você precisa:
+
+-   Abra [o repositório no último desafio: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Mude para a ramificação `jdk17` .
+-   **Observe que o código neste branch requer que o JDK17 seja executado** !!! Você precisa definir o SDK do projeto para JDK 17.
+-   Execute o método `main` em [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) e cole a resposta na caixa de entrada.
+-   Se você não se sente familiarizado com esses conhecimentos, não se preocupe. Por favor, dê uma olhada nos tutoriais no lado esquerdo e siga as etapas nos tutoriais. Vamos aprender essas habilidades no futuro gradualmente. Boa sorte!
+</details>
+
 <details>
 <summary>Bahasa Indonesia</summary>
 
-<h1>Klon, Ganti Cabang, dan Jalankan dengan JDK yang Berbeda</h1><p> Dalam tantangan ini, Anda akan mendapatkan dua keterampilan penting: <code class="notranslate">switch branch</code> dan <code class="notranslate">switch project JDK version</code> .</p><p> Untuk menyelesaikan tantangan, Anda perlu:</p><ul><li> Buka <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">repositori di tantangan terakhir: https://github.com/ByteLegendQuest/Java-clone-switch-branch</a> .</li><li> Beralih ke cabang <code class="notranslate">jdk17</code></li><li> <strong>Perhatikan bahwa kode pada cabang ini membutuhkan JDK17 untuk dijalankan</strong> !!! Anda perlu mengatur SDK proyek ke JDK 17.</li><li> Jalankan <code class="notranslate">main</code> method di <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , lalu paste jawabannya ke kotak input.</li><li> Jika Anda merasa asing dengan pengetahuan ini, jangan khawatir. Silakan lihat tutorial di sisi kiri, dan ikuti langkah-langkah dalam tutorial. Kami akan mempelajari keterampilan ini di masa depan secara bertahap. Semoga berhasil!</li></ul></details>
+Klon, Ganti Cabang, dan Jalankan dengan JDK yang Berbeda
+========================================================
+
+Dalam tantangan ini, Anda akan mendapatkan dua keterampilan penting: `switch branch` dan `switch project JDK version` .
+
+Untuk menyelesaikan tantangan, Anda perlu:
+
+-   Buka [repositori di tantangan terakhir: https://github.com/ByteLegendQuest/Java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Beralih ke cabang `jdk17` .
+-   **Perhatikan bahwa kode pada cabang ini membutuhkan JDK17 untuk dijalankan** !!! Anda perlu mengatur SDK proyek ke JDK 17.
+-   Jalankan `main` method di [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , lalu paste jawabannya ke kotak input.
+-   Jika Anda merasa asing dengan pengetahuan ini, jangan khawatir. Silakan lihat tutorial di sisi kiri, dan ikuti langkah-langkah dalam tutorial. Kami akan mempelajari keterampilan ini di masa depan secara bertahap. Semoga beruntung!
+</details>
+
 <details>
 <summary>Français</summary>
 
-<h1>Cloner, changer de branche et exécuter avec un autre JDK</h1><p> Dans ce défi, vous obtiendrez deux compétences importantes : <code class="notranslate">switch branch</code> et <code class="notranslate">switch project JDK version</code> .</p><p> Pour terminer le défi, vous devez :</p><ul><li> Ouvrez <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">le référentiel dans le dernier défi : https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> Basculez vers la branche <code class="notranslate">jdk17</code></li><li> <strong>Notez que le code sur cette branche nécessite JDK17 pour s&#39;exécuter</strong> !!! Vous devez définir le SDK du projet sur JDK 17.</li><li> Exécutez <code class="notranslate">main</code> méthode <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , puis collez la réponse dans la zone de saisie.</li><li> Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels. Nous allons apprendre ces compétences à l&#39;avenir progressivement. Bonne chance!</li></ul></details>
+Cloner, changer de branche et exécuter avec un JDK différent
+============================================================
+
+Dans ce défi, vous acquerrez deux compétences importantes : `switch branch` et `switch project JDK version` .
+
+Pour terminer le défi, vous devez :
+
+-   Ouvrez [le référentiel dans le dernier défi : https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Passez à la branche `jdk17` .
+-   **Notez que le code sur cette branche nécessite JDK17 pour s'exécuter** !!! Vous devez définir le projet SDK sur JDK 17.
+-   Exécutez la méthode `main` dans [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , puis collez la réponse dans la zone de saisie.
+-   Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels. Nous allons apprendre ces compétences à l'avenir progressivement. Bonne chance!
+</details>
+
 <details>
 <summary>日本語</summary>
 
-<h1>クローンを作成し、ブランチを切り替えて、別のJDKで実行する</h1><p><code class="notranslate">switch branch</code> <code class="notranslate">switch project JDK version</code>切り替えという2つの重要なスキルを習得します。</p><p>チャレンジを完了するには、次のことを行う必要があります。</p><ul><li><a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">最後のチャレンジでリポジトリを</a>開きます：https：//github.com/ByteLegendQuest/java-clone-switch-branch。</li><li> <code class="notranslate">jdk17</code>ブランチに切り替えます。</li><li><strong>このブランチのコードを実行するには、JDK17が必要であることに注意してください。</strong>プロジェクトSDKをJDK17に設定する必要があります。</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main</code>メソッドを実行し、回答を入力ボックスに貼り付けます。</li><li>これらの知識に慣れていなくても心配しないでください。左側のチュートリアルをご覧になり、チュートリアルの手順に従ってください。今後、これらのスキルを徐々に習得していきます。幸運を！</li></ul></details>
+クローンを作成し、ブランチを切り替えて、別のJDKで実行する
+==============================
+
+このチャレンジでは、 `switch branch`の`switch project JDK version`の切り替えという2つの重要なスキルを習得します。
+
+チャレンジを完了するには、次のことを行う必要があります。
+
+-   [最後のチャレンジでリポジトリを開きます：https：//github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) 。
+-   `jdk17`ブランチに切り替えます。
+-   **このブランチのコードを実行するには、JDK17が必要であることに注意してください。**プロジェクトSDKをJDK17に設定する必要があります。
+-   [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java)で`main`メソッドを実行し、回答を入力ボックスに貼り付けます。
+-   これらの知識に慣れていなくても心配しないでください。左側のチュートリアルをご覧になり、チュートリアルの手順に従ってください。今後、これらのスキルを徐々に習得していきます。幸運を！
+</details>
+
 <details>
 <summary>Русский</summary>
 
-<h1>Клонировать, переключать ветвь и запускать с другим JDK</h1><p> В этом испытании вы получите два важных навыка: <code class="notranslate">switch branch</code> и <code class="notranslate">switch project JDK version</code> .</p><p> Чтобы выполнить задание, вам необходимо:</p><ul><li> Откройте <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">репозиторий в последнем испытании: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> Переключитесь на ветку <code class="notranslate">jdk17</code></li><li> <strong>Обратите внимание, что код в этой ветке требует запуска JDK17</strong> !!! Вам необходимо установить для проекта SDK значение JDK 17.</li><li> Запустите <code class="notranslate">main</code> метод в <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , затем вставьте ответ в поле ввода.</li><li> Если вы чувствуете себя незнакомым с этими знаниями, не волнуйтесь. Взгляните на обучающие материалы слева и следуйте инструкциям, указанным в обучающих материалах. Мы будем постепенно осваивать эти навыки в будущем. Удачи!</li></ul></details>
+Клонировать, переключать ветки и запускать с другим JDK
+=======================================================
+
+В этом задании вы получите два важных навыка: `switch branch` и `switch project JDK version` .
+
+Чтобы завершить испытание, вам нужно:
+
+-   Откройте [репозиторий в последнем задании: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Переключитесь на ветку `jdk17` .
+-   **Обратите внимание, что код в этой ветке требует запуска JDK17** !!! Вам необходимо установить проект SDK на JDK 17.
+-   Запустите `main` метод в [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , затем вставьте ответ в поле ввода.
+-   Если вы чувствуете себя незнакомым с этими знаниями, не волнуйтесь. Пожалуйста, ознакомьтесь с руководствами слева и следуйте инструкциям в руководствах. Мы будем изучать эти навыки в будущем постепенно. Удачи!
+</details>
+
 <details>
 <summary>Deutsch</summary>
 
-<h1>Klonen, Zweig wechseln und mit einem anderen JDK ausführen</h1><p> In dieser Challenge erwirbst du zwei wichtige Fähigkeiten: <code class="notranslate">switch branch</code> und <code class="notranslate">switch project JDK version</code> .</p><p> Um die Herausforderung zu beenden, müssen Sie:</p><ul><li> Öffnen Sie <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">das Repository in der letzten Herausforderung: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> <code class="notranslate">jdk17</code> Zweig jdk17.</li><li> <strong>Beachten Sie, dass für die Ausführung des Codes in diesem Zweig JDK17 erforderlich ist</strong> !!! Sie müssen das Projekt-SDK auf JDK 17 setzen.</li><li> Führen Sie die <code class="notranslate">main</code> Methode in <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> und fügen Sie dann die Antwort in das Eingabefeld ein.</li><li> Machen Sie sich keine Sorgen, wenn Ihnen dieses Wissen nicht vertraut ist. Bitte werfen Sie einen Blick auf die Tutorials auf der linken Seite und folgen Sie den Schritten in den Tutorials. Diese Fähigkeiten werden wir in Zukunft nach und nach erlernen. Viel Glück!</li></ul></details>
+Klonen, Branch wechseln und mit einem anderen JDK ausführen
+===========================================================
+
+In dieser Herausforderung erwerben Sie zwei wichtige Fähigkeiten: `switch branch` `switch project JDK version` .
+
+Um die Herausforderung abzuschließen, müssen Sie:
+
+-   Öffnen [Sie das Repository in der letzten Herausforderung: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Wechseln Sie zum `jdk17` Zweig.
+-   **Beachten Sie, dass für den Code in diesem Zweig JDK17 ausgeführt werden muss** !!! Sie müssen das Projekt-SDK auf JDK 17 festlegen.
+-   Führen Sie `main` Methode in [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) aus und fügen Sie dann die Antwort in das Eingabefeld ein.
+-   Wenn Sie sich mit diesem Wissen nicht vertraut fühlen, machen Sie sich keine Sorgen. Bitte werfen Sie einen Blick auf die Tutorials auf der linken Seite und befolgen Sie die Schritte in den Tutorials. Diese Fähigkeiten werden wir uns in Zukunft schrittweise aneignen. Viel Glück!
+</details>
+
 <details>
 <summary>한국어</summary>
 
-<h1>다른 JDK로 복제, 분기 전환 및 실행</h1><p> <code class="notranslate">switch branch</code> 전환 및 <code class="notranslate">switch project JDK version</code> 전환이라는 두 가지 중요한 기술을 습득하게 됩니다.</p><p> 챌린지를 완료하려면 다음을 수행해야 합니다.</p><ul><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">마지막 챌린지에서 저장소를</a> 엽니다: https://github.com/ByteLegendQuest/java-clone-switch-branch .</li><li> <code class="notranslate">jdk17</code> 분기로 전환하십시오.</li><li> <strong>이 분기의 코드를 실행하려면 JDK17이 필요합니다</strong> !!! 프로젝트 SDK를 JDK 17로 설정해야 합니다.</li><li> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> <code class="notranslate">main</code> 메소드를 실행한 다음 입력 상자에 답을 붙여넣습니다.</li><li> 이러한 지식이 낯설더라도 걱정하지 마십시오. 왼쪽에 있는 자습서를 살펴보고 자습서의 단계를 따르십시오. 우리는 앞으로 이러한 기술을 점차적으로 배울 것입니다. 행운을 빕니다!</li></ul></details>
+다른 JDK로 복제, 분기 전환 및 실행
+======================
+
+이 챌린지에서는 `switch branch` `switch project JDK version` 전환이라는 두 가지 중요한 기술을 습득하게 됩니다.
+
+챌린지를 완료하려면 다음을 수행해야 합니다.
+
+-   [마지막 챌린지에서 저장소를 엽니다: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   `jdk17` 분기로 전환하십시오.
+-   **이 분기의 코드를 실행하려면 JDK17이 필요합니다** !!! 프로젝트 SDK를 JDK 17로 설정해야 합니다.
+-   [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) 에서 `main` 메소드를 실행한 다음 입력 상자에 답을 붙여넣습니다.
+-   이러한 지식이 낯설게 느껴지더라도 걱정하지 마십시오. 왼쪽에 있는 자습서를 살펴보고 자습서의 단계를 따르십시오. 앞으로 이러한 기술을 점차적으로 배울 것입니다. 행운을 빕니다!
+</details>
+
 <details>
 <summary>Italiano</summary>
 
-<h1>Clona, cambia ramo ed esegui con un JDK diverso</h1><p> In questa sfida otterrai due abilità importanti: <code class="notranslate">switch branch</code> e <code class="notranslate">switch project JDK version</code> .</p><p> Per completare la sfida, devi:</p><ul><li> Apri <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch" target="_blank">il repository nell&#39;ultima sfida: https://github.com/ByteLegendQuest/java-clone-switch-branch</a> .</li><li> Passa al ramo <code class="notranslate">jdk17</code></li><li> <strong>Nota che il codice su questo ramo richiede JDK17 per essere eseguito</strong> !!! Devi impostare l&#39;SDK del progetto su JDK 17.</li><li> Esegui il metodo <code class="notranslate">main</code> <a href="https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java" target="_blank"><code class="notranslate">src/main/java/com/bytelegend/Main.java</code></a> , quindi incolla la risposta nella casella di input.</li><li> Se non ti senti familiare con queste conoscenze, non preoccuparti. Dai un&#39;occhiata ai tutorial sul lato sinistro e segui i passaggi nei tutorial. Impareremo queste abilità in futuro gradualmente. Buona fortuna!</li></ul></details>
+Clona, cambia ramo ed esegui con un JDK diverso
+===============================================
+
+In questa sfida otterrai due abilità importanti: `switch branch` e `switch project JDK version` .
+
+Per completare la sfida, devi:
+
+-   Apri [il repository nell'ultima sfida: https://github.com/ByteLegendQuest/java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
+-   Passa al ramo `jdk17` .
+-   **Nota che il codice su questo ramo richiede JDK17 per essere eseguito** !!! Devi impostare l'SDK del progetto su JDK 17.
+-   Esegui il metodo `main` in [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , quindi incolla la risposta nella casella di input.
+-   Se non hai familiarità con queste conoscenze, non preoccuparti. Dai un'occhiata ai tutorial sul lato sinistro e segui i passaggi nei tutorial. Impareremo queste abilità in futuro gradualmente. Buona fortuna!
+</details>
