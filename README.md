@@ -17,7 +17,9 @@ To complete the challenge, you need:
 > - `git` is the standard and most advanced way to distribute source code in the world. Almost all companies in the industry use `git` everyday.
 >   You will be eligible for most of these positions if you learn `git`.
 > - `Maven` is the industry standard for Java project. All IDEs support it out-of-the-box, so you don't need tedious and error-prone configuration at all.
+
 </details>
+
 <details>
 <summary>简体中文</summary>
 
@@ -41,7 +43,9 @@ To complete the challenge, you need:
 > - `Maven`是Java项目结构的业界标准，所有的IDE都原生支持，无需麻烦、低效、易出错的手工配置。
 >   - 如果有人告诉你使用各种手工方式创建、打开项目，然后手动下载、添加各种各样的依赖包，告诉他们，`Maven`才是更加正确、高效的方式。
 >   - 在你了解`Maven`之前，请不要胡乱修改本地的Maven配置，如镜像等。我们的镜像配置直接放在了项目里，开箱即用，无需任何费时、费力、易出错的本地镜像配置。
+
 </details>
+
 <details>
 <summary>繁體中文</summary>
 
@@ -61,7 +65,9 @@ To complete the challenge, you need:
 > - `git` 是世界上分發源代碼的標準和最先進的方式。業內幾乎所有的公司每天都在使用 `git`。
 > 如果你學習了 `git`，你將有資格擔任這些職位中的大部分。
 > - `Maven` 是 Java 項目的行業標準。所有 IDE 都支持開箱即用，因此您根本不需要繁瑣且容易出錯的配置。
+
 </details>
+
 <details>
 <summary>Español</summary>
 
@@ -81,7 +87,9 @@ Para completar el desafío, necesitas:
 > - `git` es la forma estándar y más avanzada de distribuir código fuente en el mundo. Casi todas las empresas de la industria usan `git` todos los días.
 > Serás elegible para la mayoría de estos puestos si aprendes `git`.
 > - `Maven` es el estándar de la industria para proyectos Java. Todos los IDE lo admiten de forma inmediata, por lo que no necesita una configuración tediosa y propensa a errores.
+
 </details>
+
 <details>
 <summary>العربية</summary>
 
@@ -101,7 +109,9 @@ Para completar el desafío, necesitas:
 > - "git" هي الطريقة القياسية والأكثر تقدمًا لتوزيع الكود المصدري في العالم. تستخدم جميع الشركات العاملة في الصناعة تقريبًا "git" يوميًا.
 > ستكون مؤهلاً لمعظم هذه الوظائف إذا تعلمت "git".
 > - "Maven" هو المعيار الصناعي لمشروع Java. تدعمه جميع IDEs ، بحيث لا تحتاج إلى تكوين مملة وعرضة للخطأ على الإطلاق.
+
 </details>
+
 <details>
 <summary>Português</summary>
 
@@ -121,7 +131,9 @@ Para completar o desafio, você precisa:
 > - `git` é a forma padrão e mais avançada de distribuir código fonte no mundo. Quase todas as empresas do setor usam `git` todos os dias.
 > Você será elegível para a maioria dessas posições se aprender `git`.
 > - `Maven` é o padrão da indústria para projetos Java. Todos os IDEs oferecem suporte pronto para uso, portanto, você não precisa de configuração tediosa e propensa a erros.
+
 </details>
+
 <details>
 <summary>Bahasa Indonesia</summary>
 
@@ -141,7 +153,9 @@ Untuk menyelesaikan tantangan, Anda perlu:
 > - `git` adalah cara standar dan paling canggih untuk mendistribusikan kode sumber di dunia. Hampir semua perusahaan di industri menggunakan `git` sehari-hari.
 > Anda akan memenuhi syarat untuk sebagian besar posisi ini jika Anda mempelajari `git`.
 > - `Maven` adalah standar industri untuk proyek Java. Semua IDE mendukungnya secara langsung, jadi Anda tidak memerlukan konfigurasi yang membosankan dan rawan kesalahan sama sekali.
+
 </details>
+
 <details>
 <summary>Français</summary>
 
@@ -161,7 +175,9 @@ Pour relever le défi, vous avez besoin de :
 > - `git` est le moyen standard et le plus avancé de distribuer du code source dans le monde. Presque toutes les entreprises du secteur utilisent `git` tous les jours.
 > Vous serez éligible pour la plupart de ces postes si vous apprenez `git`.
 > - `Maven` est le standard de l'industrie pour les projets Java. Tous les IDE le prennent en charge immédiatement, vous n'avez donc pas du tout besoin d'une configuration fastidieuse et sujette aux erreurs.
+
 </details>
+
 <details>
 <summary>日本語</summary>
 
@@ -181,7 +197,9 @@ Pour relever le défi, vous avez besoin de :
 >-`git`は、世界でソースコードを配布するための標準的で最も高度な方法です。業界のほぼすべての企業が毎日`git`を使用しています。
 > `git`を学ぶと、これらのポジションのほとんどを利用できるようになります。
 >-`Maven`はJavaプロジェクトの業界標準です。すべてのIDEはそのままでサポートするため、面倒でエラーが発生しやすい構成はまったく必要ありません。
+
 </details>
+
 <details>
 <summary>Русский</summary>
 
@@ -201,7 +219,9 @@ Pour relever le défi, vous avez besoin de :
 > - `git` - это стандартный и самый продвинутый способ распространения исходного кода в мире. Почти все компании в отрасли используют `git` каждый день.
 > Вы будете иметь право на большинство из этих должностей, если вы изучите `git`.
 > - `Maven` является отраслевым стандартом для Java-проектов. Все IDE поддерживают его «из коробки», поэтому вам вообще не нужна утомительная и подверженная ошибкам настройка.
+
 </details>
+
 <details>
 <summary>Deutsch</summary>
 
@@ -221,7 +241,9 @@ Um die Herausforderung abzuschließen, benötigen Sie:
 > - `git` ist die standardisierte und fortschrittlichste Art, Quellcode weltweit zu verteilen. Nahezu alle Unternehmen der Branche nutzen `git` täglich.
 > Sie kommen für die meisten dieser Positionen infrage, wenn Sie `git` lernen.
 > - „Maven“ ist der Industriestandard für Java-Projekte. Alle IDEs unterstützen es von Haus aus, sodass Sie überhaupt keine langwierige und fehleranfällige Konfiguration benötigen.
+
 </details>
+
 <details>
 <summary>한국어</summary>
 
@@ -241,7 +263,9 @@ Um die Herausforderung abzuschließen, benötigen Sie:
 > - `git`은 세계에서 소스 코드를 배포하는 표준이자 가장 진보된 방법입니다. 업계의 거의 모든 회사는 매일 'git'을 사용합니다.
 > `git`을 배우면 이러한 직책의 대부분을 차지할 수 있습니다.
 > - 'Maven'은 Java 프로젝트의 업계 표준입니다. 모든 IDE는 즉시 지원하므로 지루하고 오류가 발생하기 쉬운 구성이 전혀 필요하지 않습니다.
+
 </details>
+
 <details>
 <summary>Italiano</summary>
 
@@ -261,4 +285,5 @@ Per completare la sfida, hai bisogno di:
 > - `git` è il modo standard e più avanzato per distribuire il codice sorgente al mondo. Quasi tutte le aziende del settore usano `git` tutti i giorni.
 > Sarai idoneo per la maggior parte di queste posizioni se impari `git`.
 > - `Maven` è lo standard industriale per il progetto Java. Tutti gli IDE lo supportano immediatamente, quindi non hai bisogno di una configurazione noiosa e soggetta a errori.
+
 </details>
