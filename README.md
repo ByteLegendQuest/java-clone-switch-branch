@@ -115,7 +115,7 @@ Untuk menyelesaikan tantangan, Anda perlu:
 -   Buka [repositori di tantangan terakhir: https://github.com/ByteLegendQuest/Java-clone-switch-branch](https://github.com/ByteLegendQuest/java-clone-switch-branch) .
 -   Beralih ke cabang `jdk17` .
 -   **Perhatikan bahwa kode pada cabang ini membutuhkan JDK17 untuk dijalankan** !!! Anda perlu mengatur SDK proyek ke JDK 17.
--   Jalankan `main` method di [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , lalu paste jawabannya ke kotak input.
+-   Jalankan metode `main` di [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , lalu tempelkan jawabannya ke kotak input.
 -   Jika Anda merasa asing dengan pengetahuan ini, jangan khawatir. Silakan lihat tutorial di sisi kiri, dan ikuti langkah-langkah dalam tutorial. Kami akan mempelajari keterampilan ini di masa depan secara bertahap. Semoga beruntung!
 </details>
 
@@ -133,7 +133,7 @@ Pour terminer le défi, vous devez :
 -   Passez à la branche `jdk17` .
 -   **Notez que le code sur cette branche nécessite JDK17 pour s'exécuter** !!! Vous devez définir le projet SDK sur JDK 17.
 -   Exécutez la méthode `main` dans [`src/main/java/com/bytelegend/Main.java`](https://github.com/ByteLegendQuest/java-clone-switch-branch/blob/jdk17/src/main/java/com/bytelegend/Main.java) , puis collez la réponse dans la zone de saisie.
--   Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels. Nous allons apprendre ces compétences à l'avenir progressivement. Bonne chance!
+-   Si vous ne vous sentez pas familier avec ces connaissances, ne vous inquiétez pas. Veuillez consulter les didacticiels sur le côté gauche et suivez les étapes des didacticiels. Nous apprendrons ces compétences à l'avenir progressivement. Bonne chance!
 </details>
 
 <details>
